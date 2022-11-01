@@ -1,1 +1,0 @@
-# person-detection-web-app
